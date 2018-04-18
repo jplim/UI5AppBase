@@ -2,12 +2,7 @@
 	xmlns:html="http://www.w3.org/1999/xhtml">
 	<Page title="{i18n>title}">
 		<content>
-			<IconTabBar id="idIconTabBar" select="handleIconTabBarSelect">
-				<items>
-					<IconTabFilter icon="sap-icon://retail-store" count="1" text="Pick List"/>
-					<IconTabFilter icon="sap-icon://cart-3" iconColor="Positive" count="2" text="Picked"/>
-				</items>
-			</IconTabBar>
+			
 		</content>
 	</Page>
 </mvc:View>
