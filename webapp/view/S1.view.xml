@@ -1,8 +1,6 @@
-<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="com.company.app.controller.S1"
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:semantic="sap.m.semantic" controllerName="com.company.app.controller.S1"
 	xmlns:html="http://www.w3.org/1999/xhtml">
-	<Page title="{i18n>title}">
-		<content>
-			
-		</content>
-	</Page>
+	<semantic:FullscreenPage title="{i18n>title}">
+		
+	</semantic:FullscreenPage>
 </mvc:View>
